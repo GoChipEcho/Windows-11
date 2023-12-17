@@ -1,11 +1,11 @@
 [
   {
     "name": "Minecraft",
-    "icon": "https://raw.githubusercontent.com/andrewstech/windows11-1/master/public/img/icon/minecraft.png",
+    "icon": "public/img/icon/minecraft.png",
     "type": "game",
     "data": {
       "type": "IFrame",
-      "url": "https://classic.minecraft.net",
+      "url": "https://thingmaker.us.eu.org/minekhan/",
       "gallery": [
         "https://www.minecraft.net/content/dam/games/minecraft/key-art/CavesandCliffsPt1-dotNET-HomepagePromo-600x360.png",
         "https://variety.com/wp-content/uploads/2019/02/minecraft-best-year-yet.png?w=600",
